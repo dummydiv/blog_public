@@ -1,1 +1,7 @@
 THis is the file pushed by Gitlocker!!!!
+
+
+Now, I'll show the editor settings!!!
+        These are the editor settings!
+                        Tab Size 8, Font Size 22px;
+                        Only one file can be uploaded at a time, currently!!!
