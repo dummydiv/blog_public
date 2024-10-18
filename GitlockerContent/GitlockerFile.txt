@@ -1,5 +1,1 @@
-This is the new Gitlocker File!!!
-
-
-THis are the editored settings!
-                Tab 8, Font Size 22px
+THis is the file pushed by Gitlocker!!!!
